@@ -23,7 +23,11 @@ To create a decentralized, transparent, and eco-conscious platform where constru
 - 🔗 Cross-chain compatibility for supply chains.
 - 📱 Frontend dApp for builder-friendly dashboards and visual tracking.
 
+## Contract details : 0xB7729993AC198Bf83c787b9cDc638E3cf23a20C6
+![image](https://github.com/user-attachments/assets/99980a75-98f0-4a99-945c-b834fee29f0a)
+
+
 ---
 
-> 🚧 Built with Solidity (v0.8.20) – Ready for deployment on Ethereum or any EVM-compatible blockchain.
+
 
